@@ -1,4 +1,4 @@
-# Responsivewebdesing
+# Responsive web desing
 Replicar o exercício html do freecoodcamp e tranformar em uma página no guithub
 !DOCTYPE html>
 
