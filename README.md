@@ -1,6 +1,4 @@
-<p>
-<a href="paulo23ox.github.io/Responsivewebdesing/">Visit the cat photos page</a>
-</p>
+
 
 paulo23ox.github.io/Responsivewebdesing/
 # Responsive web desing
